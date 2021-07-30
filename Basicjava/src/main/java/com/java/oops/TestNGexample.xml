@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite kutti">
+
+<Test name="Test kutti">
+
+<classes>
+
+<class name="elementspract.Buttons"></class>
+<class name="elementspract.Calenderexample"></class>
+
+
+
+
+</classes>
+
+</Test>
+
+</suite>
